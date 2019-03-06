@@ -33,6 +33,3 @@ Under the MIT License.
 - Make your update.
 
 - Push to your fork Open a Pull Request!
-
-## Related repository
-```https://github.com/seaskyv/AU-Lottery-generator.git```
